@@ -1,0 +1,3 @@
+
+Deny from all
+#Redirect /models / 404.php
